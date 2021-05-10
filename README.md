@@ -16,4 +16,8 @@ Just for fun, I'm using here old outdated (you may call it "vintage") and fairly
 
 ## Theory
 
-Most modern circuits where a high input impedance is required 
+Most modern circuits where a high input impedance is required, use the field effect transistors (FET) wich allow simple high impedance designs very easily, FETs themselves having "naturally" a high impedance inputs. This however isn't the case for vintage germanium Bipolar Junction Transistors (BJTs), or modern silicon BJTs either by the way. When using those, some schematics tricks are required. 
+
+In the olden days where FETs weren't common and cheap record players were often built around high-impedance ceramic "crystal" pickup heads, such circuits could be often found, and I "stole" mine from one old schematics file. It's almost exactly the input stage of a 60's record player with very few modifications. 
+
+Electronic theory would call it an "amplifier with bootstraped bias network", a nice explanation on how this input impedance increase is achieved can be found here: https://electronics.stackexchange.com/questions/268944/effect-of-bootstrapping-in-amplifier-circuit 
