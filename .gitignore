@@ -1,0 +1,6 @@
+sim/*.raw
+sim/*.net
+sim/*.raw
+sim/*.log
+sim/*.plt
+sim/*.fft
