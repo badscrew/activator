@@ -2,6 +2,12 @@
 
 __Attention: this project is a work in progress, unfinished at this time__
 
+## License
+
+This project with its sources is lincensed to you under __"CERN Open Hardware Licence Version 2 - Permissive"__. 
+
+It allows you to take my code, relicense it and use it without any obligation to distribute the sources when you ship a product.
+
 ## Introduction
 
 This circuit allows for impedance matching between instruments with passive pickups and amplifiers (also sound cards, mixing boards,...) that only have low impedance inputs. 
